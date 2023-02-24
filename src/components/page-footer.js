@@ -5,19 +5,19 @@ export const PageFooter = () => {
   const resourceList = [
     {
       path: "https://auth0.com/why-auth0/",
-      label: "Why Auth0",
+      label: "¿Por qué Work Match?",
     },
     {
       path: "https://auth0.com/docs/get-started",
-      label: "How It Works",
+      label: "¿Cómo trabajamos?",
     },
     {
       path: "https://auth0.com/blog/developers/",
-      label: "Developer Blog",
+      label: "Blog de solicitantes",
     },
     {
       path: "https://auth0.com/contact-us",
-      label: "Contact an Expert",
+      label: "Conecta con nosotros",
     },
   ];
 
@@ -27,18 +27,18 @@ export const PageFooter = () => {
         <div className="page-footer-grid__info">
           <div className="page-footer-info__message">
             <p className="page-footer-message__headline">
-              <span>This sample application is brought to you by&nbsp;</span>
+              <span>Esta pagina ha sido desarrollada con el 💙 por&nbsp;</span>
               <PageFooterHyperlink path="https://auth0.com/">
-                Auth0
+                Work Match DR
               </PageFooterHyperlink>
             </p>
             <p className="page-footer-message__description">
               <PageFooterHyperlink path="https://auth0.com/docs/quickstarts/">
                 <span>
-                  Securely implement authentication using Auth0 on any stack and
-                  any device&nbsp;
+                  Esta es una plataforma segura y facil de usar en la cual
+                  puedes construir tu perfil profesional&nbsp;
                 </span>
-                <u>in less than 10 minutes</u>
+                <u>en menos de 10 minutos</u>
               </PageFooterHyperlink>
             </p>
           </div>
@@ -50,7 +50,7 @@ export const PageFooter = () => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              Create Free Auth0 Account
+              Crea Un Perfil Profesional
             </a>
           </div>
           <div className="page-footer-info__resource-list">
@@ -76,7 +76,7 @@ export const PageFooter = () => {
               height="22.22"
             />
             <PageFooterHyperlink path="https://auth0.com/">
-              Auth0 Inc
+              Wrok Match DR Inc
             </PageFooterHyperlink>
           </div>
         </div>
