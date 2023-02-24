@@ -12,7 +12,6 @@ export const NavBarBrand = () => {
           width="50"
           height="50"
         />
-        Work Match DR
       </NavLink>
     </div>
   );

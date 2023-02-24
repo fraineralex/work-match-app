@@ -8,7 +8,7 @@ export const NavBarTabs = () => {
   return (
     <div className="nav-bar__tabs">
       <NavBarTab path="/profile" label="Perfil" />
-      <NavBarTab path="/public" label="Publico" />
+      <NavBarTab path="/public" label="Público" />
       {isAuthenticated && (
         <>
           <NavBarTab path="/protected" label="Protegido" />
