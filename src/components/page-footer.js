@@ -70,7 +70,7 @@ export const PageFooter = () => {
           <div className="page-footer-brand">
             <img
               className="page-footer-brand__logo"
-              src="https://icons8.com/icon/baTWeZAqG8lF/old-vmware-logo"
+              src="https://cdn.auth0.com/blog/hello-auth0/auth0-shield.svg"
               alt="Auth0"
               width="20"
               height="22.22"
