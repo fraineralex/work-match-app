@@ -7,7 +7,7 @@ export const NavBarBrand = () => {
       <NavLink to="/">
         <img
           className="nav-bar__logo"
-          src="../../../../public/images/logo-size50.png"
+          src="https://icons8.com/icon/baTWeZAqG8lF/old-vmware-logo"
           alt="company logo"
           width="122"
           height="36"
