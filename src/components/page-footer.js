@@ -4,19 +4,19 @@ import { PageFooterHyperlink } from "./page-footer-hyperlink";
 export const PageFooter = () => {
   const resourceList = [
     {
-      path: "https://auth0.com/why-auth0/",
+      path: "/",
       label: "¿Por qué Work Match?",
     },
     {
-      path: "https://auth0.com/docs/get-started",
+      path: "/",
       label: "¿Cómo trabajamos?",
     },
     {
-      path: "https://auth0.com/blog/developers/",
+      path: "/",
       label: "Blog de solicitantes",
     },
     {
-      path: "https://auth0.com/contact-us",
+      path: "/",
       label: "Conecta con nosotros",
     },
   ];
@@ -28,12 +28,10 @@ export const PageFooter = () => {
           <div className="page-footer-info__message">
             <p className="page-footer-message__headline">
               <span>Esta pagina ha sido desarrollada con el 💙 por&nbsp;</span>
-              <PageFooterHyperlink path="https://auth0.com/">
-                Work Match DR
-              </PageFooterHyperlink>
+              <PageFooterHyperlink path="/">Work Match DR</PageFooterHyperlink>
             </p>
             <p className="page-footer-message__description">
-              <PageFooterHyperlink path="https://auth0.com/docs/quickstarts/">
+              <PageFooterHyperlink path="/">
                 <span>
                   Esta es una plataforma segura y facil de usar en la cual
                   puedes construir tu perfil profesional&nbsp;
@@ -46,7 +44,7 @@ export const PageFooter = () => {
             <a
               id="create-account-button"
               className="button button--secondary"
-              href="https://auth0.com/signup"
+              href="/"
               target="_blank"
               rel="noreferrer noopener"
             >
@@ -75,7 +73,7 @@ export const PageFooter = () => {
               width="20"
               height="22.22"
             />
-            <PageFooterHyperlink path="https://auth0.com/">
+            <PageFooterHyperlink path="/">
               Wrok Match DR Inc
             </PageFooterHyperlink>
           </div>

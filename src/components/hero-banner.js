@@ -19,7 +19,7 @@ export const HeroBanner = () => {
         id="code-sample-link"
         target="_blank"
         rel="noopener noreferrer"
-        href="https://work-match.vercel.app"
+        href="/"
         className="button button--secondary"
       >
         Explora nuestras propuestas →
