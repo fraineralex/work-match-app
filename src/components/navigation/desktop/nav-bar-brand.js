@@ -6,11 +6,11 @@ export const NavBarBrand = () => {
     <div className="nav-bar__brand">
       <NavLink to="/">
         <img
-          className="nav-bar__logo"
+          className=""
           src="https://cdn-icons-png.flaticon.com/64/3800/3800024.png"
           alt="company logo"
-          width="50"
-          height="50"
+          width="64"
+          height="64"
         />
       </NavLink>
     </div>
