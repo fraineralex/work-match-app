@@ -1,7 +1,8 @@
 import React from "react";
 
 export const HeroBanner = () => {
-  const logo = "https://cdn.auth0.com/blog/hello-auth0/auth0-shield.svg";
+  const logo = "https://cdn-icons-png.flaticon.com/128/3800/3800024.png";
+  //https://cdn.auth0.com/blog/developer-hub/react-logo.svg
 
   return (
     <div className="hero-banner hero-banner--pink-yellow">
