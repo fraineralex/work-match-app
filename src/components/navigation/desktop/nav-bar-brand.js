@@ -7,7 +7,7 @@ export const NavBarBrand = () => {
       <NavLink to="/">
         <img
           className="nav-bar__logo"
-          src="https://cdn-icons-png.flaticon.com/512/3800/3800024.png"
+          src="https://cdn-icons-png.flaticon.com/64/3800/3800024.png"
           alt="company logo"
           width="128"
           height="128"
