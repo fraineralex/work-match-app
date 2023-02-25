@@ -13,7 +13,7 @@ export const HeroBanner = () => {
       <p className="hero-banner__description">
         Somos una plataforma en línea que conecta a las empresas con nuevos
         talentos, centrándonos en los conocimientos de los candidatos y no en su
-        <strong>experiencia.</strong>
+        <strong> experiencia.</strong>
       </p>
       <a
         id="code-sample-link"

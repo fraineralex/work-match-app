@@ -9,8 +9,8 @@ export const MobileNavBarBrand = ({ handleClick }) => {
           className=""
           src="https://cdn-icons-png.flaticon.com/64/3800/3800024.png"
           alt="company logo"
-          width="25"
-          height="25"
+          width="24"
+          height="24"
         />
       </NavLink>
     </div>
