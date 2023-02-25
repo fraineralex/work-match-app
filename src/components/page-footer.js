@@ -28,7 +28,7 @@ export const PageFooter = () => {
           <div className="page-footer-info__message">
             <p className="page-footer-message__headline">
               <span>Esta pagina ha sido desarrollada con el 💙 por&nbsp;</span>
-              <PageFooterHyperlink path="/">Work Match DR</PageFooterHyperlink>
+              <PageFooterHyperlink path="/"> Work Match DR</PageFooterHyperlink>
             </p>
             <p className="page-footer-message__description">
               <PageFooterHyperlink path="/">
@@ -36,7 +36,7 @@ export const PageFooter = () => {
                   Esta es una plataforma segura y facil de usar en la cual
                   puedes construir tu perfil profesional&nbsp;
                 </span>
-                <u>en menos de 10 minutos</u>
+                <u> en menos de 10 minutos</u>
               </PageFooterHyperlink>
             </p>
           </div>
@@ -68,7 +68,7 @@ export const PageFooter = () => {
           <div className="page-footer-brand">
             <img
               className="page-footer-brand__logo"
-              src="https://cdn-icons-png.flaticon.com/128/3800/3800024.png"
+              src="https://cdn-icons-png.flaticon.com/64/128/187879.png"
               alt="Auth0"
               width="20"
               height="22.22"

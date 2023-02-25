@@ -1,7 +1,7 @@
 import React from "react";
 
 export const HeroBanner = () => {
-  const logo = "https://cdn-icons-png.flaticon.com/128/3800/3800024.png";
+  const logo = "https://cdn-icons-png.flaticon.com/128/187/187879.png";
   //https://cdn.auth0.com/blog/developer-hub/react-logo.svg
 
   return (
