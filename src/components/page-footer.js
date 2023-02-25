@@ -68,7 +68,7 @@ export const PageFooter = () => {
           <div className="page-footer-brand">
             <img
               className="page-footer-brand__logo"
-              src="https://cdn-icons-png.flaticon.com/64/128/187879.png"
+              src="https://cdn-icons-png.flaticon.com/64/187/187879.png"
               alt="Auth0"
               width="20"
               height="22.22"
