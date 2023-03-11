@@ -74,7 +74,7 @@ export const PageFooter = () => {
               height="22.22"
             />
             <PageFooterHyperlink path="/">
-              Wrok Match DR Inc
+              Work Match DR Inc
             </PageFooterHyperlink>
           </div>
         </div>
