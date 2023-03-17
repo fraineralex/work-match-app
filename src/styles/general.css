@@ -19,6 +19,10 @@ body {
 }
 
 body {
+  background-image: linear-gradient(135deg, #d3b6ff 0%, #8e7aff 30%);
+}
+
+body {
   background-image: url('../../public/images/back.png');
   background-size: cover;
   background-position: center;
