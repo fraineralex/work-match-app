@@ -13,15 +13,17 @@ export const HeroBanner = () => {
       <p className="hero-banner__description">
         <h1 className="home-barner">Creadores de un futuro sin limitaciones</h1>
       </p>
-      <a
-        id="code-sample-link"
-        target="_blank"
-        rel="noopener noreferrer"
-        href="/"
-        className="button button--secondary"
-      >
-        Conoce nuestras propuestas →
-      </a>
+      <div className="button">
+        <a
+          id="code-sample-link"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="/"
+          className="button button--secondary"
+        >
+          Conoce nuestras propuestas →
+        </a>
+      </div>
     </div>
   );
 };
