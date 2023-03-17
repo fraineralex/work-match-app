@@ -5,15 +5,13 @@ export const HeroBanner = () => {
   //https://cdn.auth0.com/blog/developer-hub/react-logo.svg
 
   return (
-    <div className="hero-banner hero-banner--pink-yellow">
-      <div className="hero-banner__logo">
+    <div className="hero-banner">
+      {/* <div className="hero-banner__logo">
         <img className="hero-banner__image" src={logo} alt="company logo" />
-      </div>
-      <h1 className="hero-banner__headline">Work Match DR</h1>
+      </div> */}
+      {/* <h1 className="hero-banner__headline">Work Match DR</h1> */}
       <p className="hero-banner__description">
-        Somos una plataforma en línea que conecta a las empresas con nuevos
-        talentos, centrándonos en los conocimientos de los candidatos y no en su
-        <strong> experiencia.</strong>
+        <h1 className="home-barner">Creadores de un futuro sin limitaciones</h1>
       </p>
       <a
         id="code-sample-link"
@@ -22,7 +20,7 @@ export const HeroBanner = () => {
         href="/"
         className="button button--secondary"
       >
-        Explora nuestras propuestas →
+        Conoce más
       </a>
     </div>
   );

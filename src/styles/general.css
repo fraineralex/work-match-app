@@ -33,6 +33,10 @@ body {
   overflow-y: scroll;
 }
 
+.home-barner{
+  color: white;
+}
+
 h1,
 h2,
 h3,
