@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import logoImage from "../../../../public/images/logo.png"
 
 export const NavBarBrand = () => {
   return (
@@ -7,7 +8,7 @@ export const NavBarBrand = () => {
       <NavLink to="/">
         <img
           className=""
-          src="https://raw.githubusercontent.com/fraineralex/work-match-app/main/public/images/logo.png?token=GHSAT0AAAAAAB7YGLSJEZE3FH3BQBZ3GJCWZAUNVQA"
+          src={logoImage}
           alt="company logo"
           width="25"
           height="25"
