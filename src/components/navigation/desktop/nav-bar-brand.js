@@ -9,8 +9,8 @@ export const NavBarBrand = () => {
           className=""
           src="https://i.postimg.cc/zGb3LB3y/logo.png"
           alt="company logo"
-          width="480"
-          height="180"
+          width="288"
+          height="162"
         />
         {/* <strong className="title"> Work Match</strong> */}
       </NavLink>
