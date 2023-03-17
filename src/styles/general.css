@@ -19,7 +19,9 @@ body {
 }
 
 body {
-  background-color: var(--black);
+  background-image: url('../../public/images/back.png');
+  background-size: cover;
+  background-position: center;
 
   color: var(--white);
   font-family: var(--font-primary);
