@@ -7,10 +7,10 @@ export const NavBarBrand = () => {
       <NavLink to="/">
         <img
           className=""
-          src="https://cdn-icons-png.flaticon.com/64/187/187879.png"
+          src="https://github.com/fraineralex/fraineralex/blob/main/logo.png"
           alt="company logo"
           width="50"
-          height="50"
+          height="100"
         />
         <strong className="title"> Work Match</strong>
       </NavLink>
