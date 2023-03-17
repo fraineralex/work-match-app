@@ -12,9 +12,9 @@ export const NavBarBrand = () => {
           width="25"
           height="25"
         />
-        <h5 className="home-barner"> Work Match</h5>
+        Work Match
       </NavLink>
-      <h5 className="home-barner"> Work Match</h5>
+      Work Match
     </div>
   );
 };
