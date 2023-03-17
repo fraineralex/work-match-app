@@ -9,8 +9,8 @@ export const NavBarBrand = () => {
           className=""
           src="https://cdn-icons-png.flaticon.com/64/187/187879.png"
           alt="company logo"
-          width="25"
-          height="25"
+          width="50"
+          height="50"
         />
         <strong className="title"> Work Match</strong>
       </NavLink>

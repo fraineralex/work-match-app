@@ -40,6 +40,8 @@
 .title{
   font-size: large;
   font-weight: bold;
+  padding-top: 2rem;
+  margin-left: 2rem;
 }
 
 .nav-bar__link {
