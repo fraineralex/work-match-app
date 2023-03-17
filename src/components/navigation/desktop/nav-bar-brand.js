@@ -7,7 +7,7 @@ export const NavBarBrand = () => {
       <NavLink to="/">
         <img
           className=""
-          src="https://github.com/fraineralex/work-match-app/blob/main/public/images/logo.png?raw=true"
+          src="https://raw.githubusercontent.com/fraineralex/work-match-app/main/public/images/logo.png?token=GHSAT0AAAAAAB7YGLSJEZE3FH3BQBZ3GJCWZAUNVQA"
           alt="company logo"
           width="25"
           height="25"
