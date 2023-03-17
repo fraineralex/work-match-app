@@ -11,7 +11,9 @@ export const HeroBanner = () => {
       </div> */}
       {/* <h1 className="hero-banner__headline">Work Match DR</h1> */}
       <p className="hero-banner__description">
-        <h1 className="home-barner">Creadores de un futuro sin limitaciones</h1>
+        <h1 className="home-barner">Construimos</h1>
+        <h1 className="home-barner">un mejor</h1>
+        <h1 className="home-barner">futuro para ti</h1>
       </p>
       <div className="button-div">
         <a
