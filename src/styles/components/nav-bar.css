@@ -37,6 +37,11 @@
   /* margin-right: 64px; */
 }
 
+.title{
+  font-size: large;
+  font-weight: bold;
+}
+
 .nav-bar__link {
   display: flex;
   align-items: center;

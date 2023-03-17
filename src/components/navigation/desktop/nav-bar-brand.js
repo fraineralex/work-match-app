@@ -12,7 +12,7 @@ export const NavBarBrand = () => {
           width="25"
           height="25"
         />
-        <strong> Work Match</strong>
+        <strong className="title"> Work Match</strong>
       </NavLink>
     </div>
   );
