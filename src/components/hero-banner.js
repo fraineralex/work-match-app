@@ -20,7 +20,7 @@ export const HeroBanner = () => {
         href="/"
         className="button button--secondary"
       >
-        Conoce más
+        Conoce nuestras propuestas →
       </a>
     </div>
   );

@@ -5,33 +5,12 @@
 
   width: 100%;
 
-  background: var(--yellow-mandarine-gradient);
-
-  color: var(--black);
+  color: var(--white);
 
   /* responsive */
 
   margin: 0 auto;
   padding: 3.2rem 6.4rem;
-}
-
-.hero-banner--yellow-mandarine {
-  background: var(--yellow-mandarine-gradient);
-}
-.hero-banner--pink-yellow {
-  background: var(--pink-yellow-gradient);
-}
-
-.hero-banner--blue-aqua {
-  background: var(--blue-aqua-gradient);
-}
-
-.hero-banner--aqua-emerald {
-  background: var(--aqua-emerald-gradient);
-}
-
-.hero-banner--emerald-yellow {
-  background: var(--emerald-yellow-gradient);
 }
 
 .hero-banner__logo {

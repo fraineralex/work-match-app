@@ -7,12 +7,12 @@ export const NavBarBrand = () => {
       <NavLink to="/">
         <img
           className=""
-          src="../../../../public/images/logo.png"
+          src="https://github.com/fraineralex/work-match-app/blob/main/public/images/logo.png"
           alt="company logo"
           width="25"
           height="25"
         />
-        <strong className="home-barner"> Work Match</strong>
+        <h1 className="home-barner"> Work Match</h1>
       </NavLink>
     </div>
   );
