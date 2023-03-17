@@ -13,7 +13,7 @@ export const HeroBanner = () => {
       <p className="hero-banner__description">
         <h1 className="home-barner">Creadores de un futuro sin limitaciones</h1>
       </p>
-      <div className="button">
+      <div className="button-div">
         <a
           id="code-sample-link"
           target="_blank"
